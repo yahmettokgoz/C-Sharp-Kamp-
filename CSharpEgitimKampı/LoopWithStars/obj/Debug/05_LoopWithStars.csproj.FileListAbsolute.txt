@@ -1,0 +1,7 @@
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\bin\Debug\LoopWithStars.exe.config
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\bin\Debug\LoopWithStars.exe
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\bin\Debug\LoopWithStars.pdb
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\obj\Debug\05_LoopWithStars.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\obj\Debug\05_LoopWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\obj\Debug\LoopWithStars.exe
+C:\Users\Ahmet\Desktop\CSharpEgitimKampı\LoopWithStars\obj\Debug\LoopWithStars.pdb
